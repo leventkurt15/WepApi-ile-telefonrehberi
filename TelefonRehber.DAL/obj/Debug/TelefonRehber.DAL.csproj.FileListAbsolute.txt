@@ -1,0 +1,11 @@
+C:\Users\Levent\source\repos\TelefonRehberi\TelefonRehber.DAL\bin\Debug\TelefonRehber.DAL.dll.config
+C:\Users\Levent\source\repos\TelefonRehberi\TelefonRehber.DAL\bin\Debug\TelefonRehber.DAL.dll
+C:\Users\Levent\source\repos\TelefonRehberi\TelefonRehber.DAL\bin\Debug\TelefonRehber.DAL.pdb
+C:\Users\Levent\source\repos\TelefonRehberi\TelefonRehber.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Levent\source\repos\TelefonRehberi\TelefonRehber.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Levent\source\repos\TelefonRehberi\TelefonRehber.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Levent\source\repos\TelefonRehberi\TelefonRehber.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Levent\source\repos\TelefonRehberi\TelefonRehber.DAL\obj\Debug\TelefonRehber.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Levent\source\repos\TelefonRehberi\TelefonRehber.DAL\obj\Debug\TelefonRehber.DAL.csproj.CopyComplete
+C:\Users\Levent\source\repos\TelefonRehberi\TelefonRehber.DAL\obj\Debug\TelefonRehber.DAL.dll
+C:\Users\Levent\source\repos\TelefonRehberi\TelefonRehber.DAL\obj\Debug\TelefonRehber.DAL.pdb
